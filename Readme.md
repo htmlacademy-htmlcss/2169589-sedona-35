@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Oraz Bakhtaliev](https://up.htmlacademy.ru/htmlcss/35/user/2169589).
-* Наставник: `Неизвестно`.
+- Студент: [Oraz Bakhtaliev]https://up.htmlacademy.ru/htmlcss/35/user/2169589).
+- Наставник: `[Анна Рус]https://htmlacademy.ru/profile/vanillawulf/
 
 ---
 
